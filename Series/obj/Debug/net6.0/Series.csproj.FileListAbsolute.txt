@@ -1,0 +1,15 @@
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.csproj.AssemblyReference.cache
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.AssemblyInfoInputs.cache
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.AssemblyInfo.cs
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.csproj.CoreCompileInputs.cache
+/home/pi/Documents/Desafio-CRUD/Series/bin/Debug/net6.0/Series
+/home/pi/Documents/Desafio-CRUD/Series/bin/Debug/net6.0/Series.deps.json
+/home/pi/Documents/Desafio-CRUD/Series/bin/Debug/net6.0/Series.runtimeconfig.json
+/home/pi/Documents/Desafio-CRUD/Series/bin/Debug/net6.0/Series.dll
+/home/pi/Documents/Desafio-CRUD/Series/bin/Debug/net6.0/ref/Series.dll
+/home/pi/Documents/Desafio-CRUD/Series/bin/Debug/net6.0/Series.pdb
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.dll
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/ref/Series.dll
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.pdb
+/home/pi/Documents/Desafio-CRUD/Series/obj/Debug/net6.0/Series.genruntimeconfig.cache
